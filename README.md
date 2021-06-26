@@ -11,7 +11,7 @@ Well, I'm not 14 anymore (That doesn't mean I don't wish I were 14 🤧)... But 
 
 🗣 Contact me on Telegram. I'm working on [a Python pack to design Telegram bots with](https://github.com/python-telegram-bot/python-telegram-bot); So i'm pretty much working there all the time these days.
 
-🚀 Wanna do an open-source project on Telegram bots? Waiting for you! Telegram.Me/JoiFoi
+🚀 Wanna do an open-source project on Telegram bots? Waiting for you! [Telegram.Me/JoiFoi](t.me/JoiFoi)
 📫 JoiFoi@Outlook.Com
 
 🕊 *Take It Easy And Build Yourself a Peaceful Day!*
