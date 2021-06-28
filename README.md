@@ -3,7 +3,7 @@ Who's Sitting Behind The Name 'JoiFoi'? 🤔
 👋 Hey There! it's JoiFoi (Not so surprising after checking my github username, huh? 😗)
 
 🌱 I started programming at an early age... Perhaps it's safe to say I wrote my first lines of code when I was somewhat around 14.
-Well, I'm not 14 anymore (That doesn't mean I don't wish I were 14 🤧)... But times's passed and **I hope** I've gotten better comparing to my early days.
+Well, I'm not 14 anymore (That doesn't mean I don't wish I were 13 🤧)... But times's passed and **I hope** I've gotten better comparing to my early days.
 
 😕 Anyway... Github's where I like to post my projects and follow other open-source software. 🐍 Days are passing in a snake routine. I guess I'm not the only one obsessed with Python, huh?
 
